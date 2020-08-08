@@ -1,2 +1,2 @@
-# ScrIptS
+# AScripts
 collection of scripts 
