@@ -1,3 +1,6 @@
 -- to display current time details
-set Dialog1 to "Current time: " & (current date) & "."
+set time to time string of (current date)
+set Dialog1 to "Current time: " & time
 display dialog Dialog1
+
+
