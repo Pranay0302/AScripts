@@ -1,4 +1,7 @@
 # AScripts
 collection of scripts 
 
-##### feel free to fork it 
+### contributing
+- fork it 
+- create your branch 
+- submit a pr
